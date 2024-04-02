@@ -37,7 +37,7 @@ Create a .env file in the root of your project and set the following variables:
 - Record daily attendance for students.
 - Display attendance details.
 - Download attendance records as a CSV file.
-- Delete attendance records for the previous N days.
+<!-- - Delete attendance records for the previous N days. -->
 ### User Control
 - View a list of users with their roles.
 - Admins can edit user roles (admin status).
